@@ -13,7 +13,7 @@ int main() {
   std::cout << "Now, please enter what planet order number you want to box on\n";
   std::cin >> planet;
   if( planet > 8 ) {
-    std::cout << "that isnt a planet in the solar system\n";
+    std::cout << "that isnt a planet in the solar system. please try again.\n";
     return 0;
   }
 switch (planet) {
