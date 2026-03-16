@@ -6,7 +6,7 @@ int main() {
   double weight2;
   int planet;
 
-  std::cout << "how much do you weigh on earth\n";
+  std::cout << "what is your weight on earth?\n";
 
   std::cin >> weight;
 
