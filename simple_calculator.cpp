@@ -12,7 +12,7 @@ std::cin >> a;
 std::cout << "what do you want 'b' to be\n";
 std::cin >> b;
 
-std::cout << "Do you want to, add or subtract (A for add, S for subtract, M  for muiltplcation, D for divide)\n";
+std::cout << "what operation do you want to do? (A for add, S for subtract, M  for muiltplcation, D for divide)\n";
 std::cin >> operation;
 
 if(operation == 'A') { 
