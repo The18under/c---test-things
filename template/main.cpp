@@ -10,7 +10,7 @@ std::cin >> x;
 std::cout << "what number ar you going to input for y\n";
 std::cin >> y;
 
-std::cout << "the answer is " << adding(x,y) << "\n";
+std::cout << "the answer is " << adding<int>(x,y) << "\n";
 
 return 0;  
 }
