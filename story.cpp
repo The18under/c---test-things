@@ -6,7 +6,7 @@ std::cout << "You were walking through the forest where you saw three paths\n";
 std::cout << "what path do you want to take(N,S,E,W)\n";
 std::cin >> path;
 while (path == 'E'|| path =='W'){
-std::cout << "You were walking through the forest where you saw three paths\n";
+std::cout << "You were walking through the forest where you saw three different paths\n";
 std::cout << "what path do you want to take(N,S,E,W)\n";
 std::cin >> path;
 }
