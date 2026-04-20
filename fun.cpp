@@ -13,6 +13,6 @@ std::cin >> distance[3];
 
 total = distance[0] + distance[1] + distance[2] + distance[3];
 
-std::cout << "the total miles covered is " << total << " miles\n";
+std::cout << "the total miles covered equal " << total << " miles\n";
 return 0;
 }
